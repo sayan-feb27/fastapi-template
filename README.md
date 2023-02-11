@@ -19,5 +19,7 @@
  Благодаря такому разделению, вам будет легче добавлять новые типы транспортов в сервис.
  
  
- 
+Например, как в файле `example.png`
+
+Или используй структуру как здесь https://github.com/sayan-feb27/fastapi-best-practices#1-project-structure-consistent--predictable
  
